@@ -16,7 +16,6 @@ html,body{
     position: relative;
 }
 body{
-    height: 100%;
     background-image: url("./signup3.jpg");
     background-size:     cover;                    
     background-repeat:   no-repeat;
